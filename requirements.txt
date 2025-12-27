@@ -16,6 +16,3 @@ onnxruntime==1.23.1
 
 # PyTorch
 torch==2.8.0
-
-# FlashAttention (Florence-2, Phi-3-Vision)
-flash-attn==2.8.3
